@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Diego</a> 👋</h1>
 </div>
-<img src="https://imgur.com/uL1qjRz">
+<img src="https://i.imgur.com/uL1qjRz.png">
 
 ## Sobre mi
 
