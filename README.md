@@ -8,7 +8,6 @@
 - ☝️ Desarrollador Competente ☝️ 
 - 📲 Desarrollador de Aplicaciones Multiplataforma
 - 📚 Cualificado para desarrollar cualquier tipo de proyecto
-- 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
