@@ -4,8 +4,8 @@
 <img src="https://i.imgur.com/uL1qjRz.png">
 <p align="left">
   <a href="https://www.youtube.com/channel/UCyGo_Ank56hwOej1eoov5eQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@dicorgir"  /></a>
-<a href="https://www.linkedin.com/in/diego-andr%C3%A9-cornejo-giraldo-83a453246/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.linkedin.com/in/diego-andr%C3%A9-cornejo-giraldo-83a453246/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dicorgir"/></a>
+<a href = "mailto:dicorgir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dicorgir"  /></a>
   </p>
 ## Sobre mi 😎
 
