@@ -13,7 +13,7 @@
 - 📲 Desarrollador de Aplicaciones Multiplataforma
 - 📚 Cualificado para desarrollar cualquier tipo de proyecto
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2> <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2> 
 
 <p align="left">
   <a href="https://skillicons.dev">
