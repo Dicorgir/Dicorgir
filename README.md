@@ -12,6 +12,11 @@
 - ☝️ Desarrollador Competente ☝️ 
 - 📲 Desarrollador de Aplicaciones Multiplataforma
 - 📚 Cualificado para desarrollar cualquier tipo de proyecto
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/kpk7rg22nsyvc5glql6bmtbai)
+
+---
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2> 
 
