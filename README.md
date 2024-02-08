@@ -8,13 +8,12 @@
 <a href = "mailto:dicorgir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dicorgir"  /></a>
   </p>
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí</h2>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - ☝️ Desarrollador Competente ☝️ 
 - 📲 Desarrollador de Aplicaciones Multiplataforma
 - 📚 Cualificado para desarrollar cualquier tipo de proyecto
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2> <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <p align="left">
   <a href="https://skillicons.dev">
