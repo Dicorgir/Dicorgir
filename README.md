@@ -6,6 +6,10 @@
   <a href="https://www.youtube.com/channel/UCyGo_Ank56hwOej1eoov5eQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@dicorgir"  /></a>
 <a href="https://www.linkedin.com/in/diego-andr%C3%A9-cornejo-giraldo-83a453246/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dicorgir"/></a>
 <a href = "mailto:dicorgir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@dicorgir"  /></a>
+  <a href="https://www.instagram.com/diego02_cg/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@tu_usuario_de_instagram" />
+</a>
+
 </p>
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí</h2>
 
