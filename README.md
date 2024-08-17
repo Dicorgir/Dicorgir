@@ -18,13 +18,64 @@
 
 ---
 
-<h2 ><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tecnologías conocidas 👨🏻‍💻</h2> 
-
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Lenguajes de Programación <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,cs,java,py,unity,dotnet,css,html,bootstrap,js,ts,nodejs,mysql,sqlite,git,django,github,docker,eclipse,vscode,webstorm,blender,visualstudio,pycharm,maven,mongodb,spring,idea,hibernate,gradle,firebase,laravel,obsidian,postgres,linux,php,powershell&perline=12" />
+    <img src="https://skillicons.dev/icons?i=kotlin,c,cs,java,python,js,ts,css,html,php,powershell&perline=12" />
   </a>
 </p>
+<p></p>
+<h2 align="center"> 👨🏻‍💻 IDEs Utilizadas 👨🏻‍💻</h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,visualstudio,webstorm,pycharm,phpstorm,idea&perline=12" />
+  </a>
+</p>
+<p></p>
+<h2 align="center"> ⌨️ FrameWorks y Librerías Utilizadas ⌨️</h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,django,spring,hibernate,laravel&perline=12" />
+  </a>
+</p>
+
+<h2 align="center"> 🖱️ Bases de Datos 🖱️</h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,postgres,firebase&perline=12" />
+  </a>
+</p>
+
+<h2 align="center">  Control de Versiones </h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github&perline=12" />
+  </a>
+</p>
+
+<h2 align="center"> Control de Versiones </h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker&perline=12" />
+  </a>
+</p>
+
+<h2 align="center"> Herramientas de Desarrollo </h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=maven,gradle,blender,obsidian&perline=12" />
+  </a>
+</p>
+
+
+<h2 align="center"> Sistema Operativos </h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=12" />
+  </a>
+</p>
+
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
