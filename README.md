@@ -53,12 +53,6 @@
   </a>
 </p>
 
-<h2 align="center"> Control de Versiones </h2> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker&perline=12" />
-  </a>
-</p>
 
 <h2 align="center"> Herramientas de Desarrollo </h2> 
 <p align="center">
@@ -75,6 +69,12 @@
   </a>
 </p>
 
+<h2 align="center"> Control de Versiones </h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker&perline=12" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
