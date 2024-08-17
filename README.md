@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/diego-andr%C3%A9-cornejo-giraldo-83a453246/">Dicorgir</a> <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/diego-andr%C3%A9-cornejo-giraldo-83a453246/">Diego</a> <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 </div>
 <img src="https://i.imgur.com/uL1qjRz.png">
 <p align="left">
@@ -27,6 +27,5 @@
 </p>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  </a>
 </div>
