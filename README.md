@@ -14,7 +14,7 @@
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí</h2>
 
 - ☝️ Desarrollador Competente ☝️ 
-- 📲 Desarrollador de Aplicaciones Multiplataforma
+- 📲 Desarrollador de Aplicaciones Multiplataforma y Aplicaciones Web.
 - 📚 Cualificado para desarrollar cualquier tipo de proyecto
 ### Spotify Playing 🎧
 <div align="center">
