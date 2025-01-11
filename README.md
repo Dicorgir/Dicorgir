@@ -73,7 +73,7 @@
   </a>
 </p>
 
-<h2 align="center"> Control de Versiones </h2> 
+<h2 align="center"> Contenedores y despligue </h2> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker&perline=12" />
