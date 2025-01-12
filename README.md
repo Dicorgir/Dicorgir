@@ -61,7 +61,7 @@
 <h2 align="center"> Herramientas de Desarrollo </h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,gradle,blender,obsidian&perline=12" />
+    <img src="https://skillicons.dev/icons?i=maven,gradle,unity,blender,obsidian&perline=12" />
   </a>
 </p>
 
