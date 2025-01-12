@@ -66,7 +66,7 @@
 </p>
 
 
-<h2 align="center"> Sistema Operativos </h2> 
+<h2 align="center"> Sistemas Operativos </h2> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=12" />
