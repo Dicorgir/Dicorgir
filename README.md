@@ -39,7 +39,7 @@
 <h2 align="center"> ⌨️ FrameWorks y Librerías Utilizadas ⌨️</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,django,spring,jquery,angular,hibernate,laravel&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,django,spring,tailwind,jquery,angular,hibernate,laravel&perline=12" />
   </a>
 </p>
 
